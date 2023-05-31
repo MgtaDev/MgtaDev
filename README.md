@@ -11,6 +11,3 @@ Soy un programador Full Stack jr! Me especializo en Frontend y Responsive Web De
 
 Connect with me:
 daniel passantino
-
-Languages and Tools:
-babel bootstrap css3 express git graphql html5 jest linux mocha mongodb nextjs postgresql postman react reactnative redux sass typescript webpack
