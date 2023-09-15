@@ -1,6 +1,7 @@
 ** Hola 👋 Soy Daniel Passantino **
 
-## Full Stack Web Developer Js, Python, Java, React, Redux, SQL
+## Full Stack Developer JavaScript, React, Redux, Node.js, Express.js, PostgreSQL, MySQL, Typescript y Next.js.
+
 
 
 
