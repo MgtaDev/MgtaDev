@@ -10,21 +10,25 @@
 
 
 ```javascript
-const MgtaDev = {
+  const MgtaDev = {
     technologies: {
-        frontEnd: {
-            html: []
-            css: []
-            js: ["React"]
-                ["Redux"],
-        },
-        backEnd:["Express.js"]
-                 ["Node_js"]
-                 ["SQL"],
-                 ["PostgreSQL"]
+      frontEnd: {
+        markup: ["HTML"],
+        styling: ["CSS", "Tailwind"],
+        languages: ["JavaScript", "TypeScript"],
+        frameworks: ["React", "Next.js"],
+        stateManagement: ["Redux"],
+        animation: ["Framer Motion"]
+      },
+      backEnd: {
+        runtime: ["Node.js"],
+        frameworks: ["Express"],
+        databases: ["MongoDB", "PostgreSQL"],
+        orm: ["Prisma"]
+      },
+      versionControl: ["Git"]
     }
-};
-
+  };
 ```
 ## 🚀 About Me:
 Soy un Desarrollador Full Stack Jr.
